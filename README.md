@@ -4,6 +4,12 @@
 - 🌱 I’m currently learning Web Development and Application software development
 - ✨ I'm a sophomore studying Computer Engineering at UET Lahore 💘
 - 📫 How to reach me: 
+  [![alt text][1.1]][1]
+  [![alt text][2.1]][2]
+  [![alt text][3.1]][3]
+  [![alt text][4.1]][4]
+  [![alt text][5.1]][5]
+  [![alt text][6.1]][6]
 <!--
 **nabeelraza-7/nabeelraza-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
