@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Hospital Management System
 - 🌱 I’m currently learning Web Development and Application software development
-- 📫 How to reach me: [1.2]: (http://i.imgur.com/wWzX9uB.png)
+- 📫 How to reach me: [![github](https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png)]
 <!--
 **nabeelraza-7/nabeelraza-7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
