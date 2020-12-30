@@ -52,4 +52,10 @@ ul a:hover{
         display: flex;
         flex-direction: column;
     }
+    .group{
+        display: grid;
+        grid-template-columns: 100%;
+        grid-column-gap: 30px;
+        grid-row-gap: 30px;
+    }
 }
