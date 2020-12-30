@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/fep1WsG.png (facebook icon without padding)
-[3.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-
 [1]: http://www.twitter.com/nabeel_raza
 [2]: http://www.facebook.com/nabeelraza512
 [3]: http://www.github.com/nabeelraza-7
