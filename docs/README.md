@@ -3,7 +3,7 @@
 <h3 align="center"> A sophomore at UET Lahore</h3>
 <hr>
 <ul>
-  <p>🔭 I’m currently working on Hospital Management System</p>
+  <p>🔭 I’m currently working on a Hospital Management System</p>
   <p>🌱 I’m currently learning Web Development and Application software development</p>
   <p>✨ I'm a sophomore studying Computer Engineering at UET Lahore 💘</p>
   
