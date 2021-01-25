@@ -5,9 +5,11 @@
 <ul>
   <p>🔭 I’m currently working on a Hospital Management System</p>
   <p>🌱 I’m currently learning Web Development and Application software development</p>
-  <p>✨ I'm a sophomore studying Computer Engineering at UET Lahore 💘</p>
+  <p>✨ I'm a sophomore majoring Computer Engineering at UET Lahore 💘</p>
   
  </ul>
+
+🖊 You can read my blog at: [hashnode](https://nabeel.hashnode.dev/)
 
 📫 How to reach me: 
  <a href="http://www.twitter.com/nabeel_raza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamfahadashiq" height="30" width="40" /></a>
@@ -19,5 +21,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nabeelraza-7&show_icons=true&theme=radical&hide=contribs,prs&count_private=true)
 <hr>
 
-🖊 You can read my blog at: [hashnode](https://nabeel.hashnode.dev/)
 
