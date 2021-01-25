@@ -14,4 +14,5 @@
  <a href="http://www.facebook.com/nabeelraza512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fahadashiq30" height="30" width="40" /></a>
  <a href="https://instagram.com/iamfahadashiq" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamfahadashiq" height="30" width="40" /></a>
 <hr>
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nabeelraza-7&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nabeelraza-7&show_icons=true&theme=radical&hide=contribs,prs&count_private=true)
