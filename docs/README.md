@@ -18,7 +18,7 @@
  <a href="https://www.instagram.com/raza_nabeel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamfahadashiq" height="30" width="40" /></a>
 <hr>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nabeelraza-7&show_icons=true&theme=radical&hide=contribs,prs&count_private=true)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nabeelraza-7&show_icons=true&theme=radical&hide=prs&count_private=true)
 <hr>
 
 
