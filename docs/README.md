@@ -6,7 +6,7 @@
   <p>🔭 I’m currently working on a Hospital Management System</p>
   <p>🌱 I’m currently learning Web Development and Application software development</p>
   <p>✨ I'm a sophomore majoring Computer Engineering at UET Lahore 💘</p>
-  
+  ![](https://komarev.com/ghpvc/?username=nabeelraza-7&label=PROFILE+VIEWS)
  </ul>
 
 🖊 You can read my blog at: [hashnode](https://nabeel.hashnode.dev/)
