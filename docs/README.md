@@ -8,8 +8,6 @@
   <p>✨ I'm a sophomore majoring Computer Engineering at UET Lahore 💘</p>
   
  </ul>
- 
-![](https://komarev.com/ghpvc/?username=nabeelraza-7&label=PROFILE+VIEWS)
 🖊 You can read my blog at: [hashnode](https://nabeel.hashnode.dev/)
 
 📫 Contact me @: 
