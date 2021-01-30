@@ -8,6 +8,7 @@
   <p>✨ I'm a sophomore majoring Computer Engineering at UET Lahore 💘</p>
   
  </ul>
+ 
 🖊 You can read my blog at: [hashnode](https://nabeel.hashnode.dev/)
 
 📫 Contact me @: 
