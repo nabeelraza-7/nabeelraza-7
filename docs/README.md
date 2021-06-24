@@ -21,4 +21,7 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=nabeelraza-7&show_icons=true&theme=radical&hide=prs&count_private=true)
 <hr>
 
-
+<p align="center">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelraza-7&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=nabeelraza-7&count_private=true&hide_border=true&bg_color=0d1117&theme=github" />
+  </p>
