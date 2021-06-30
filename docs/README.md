@@ -3,13 +3,15 @@
 <h3 align="center"> A sophomore at UET Lahore</h3>
 <hr>
 <ul>
-  <p>🔭 I’m currently working on a Hospital Management System</p>
-  <p>🌱 I’m currently learning Web Development and Application software development</p>
+  <p>🔭 I’m currently working on a Handwritten Expression Plotter</p>
+  <p>🌱 I’m currently learning Deep Learning</p>
   <p>✨ I'm a sophomore majoring Computer Engineering at UET Lahore 💘</p>
   
  </ul>
  
-🖊 You can read my blog at: [hashnode](https://nabeel.hashnode.dev/)
+👌 Kaggle [profile](https://www.kaggle.com/nabeelraza) <br>
+💘LeetCode [profile](https://leetcode.com/nabeelraza/) <br>
+🖊 You can read my blog at: [hashnode](https://nabeel.hashnode.dev/) <br>
 
 📫 Contact me @: 
  <a href="http://www.twitter.com/nabeel_raza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamfahadashiq" height="30" width="40" /></a>
