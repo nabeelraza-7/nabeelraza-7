@@ -3,14 +3,18 @@
 <h3 align="center"> A sophomore at UET Lahore</h3>
 <hr>
 
-🔭 I’m currently working on a Handwritten Expression Plotter
-🌱 I’m currently learning Deep Learning
-✨ I'm a sophomore majoring Computer Engineering at UET Lahore 💘
-  
- 
+🔭 I’m currently working on a Handwritten Expression Plotter<br>
+🌱 I’m currently learning Deep Learning<br>
+✨ I'm a sophomore majoring Computer Engineering at UET Lahore 💘<br>
 👌 Kaggle [profile](https://www.kaggle.com/nabeelraza) <br>
 💘LeetCode [profile](https://leetcode.com/nabeelraza/) <br>
 🖊 You can read my blog at: [hashnode](https://nabeel.hashnode.dev/) <br>
+
+<hr>
+
+# Experiences #
+  Data Science Intern at **The Sparks Foundation**
+<hr>
 
 📫 Contact me @: 
  <a href="http://www.twitter.com/nabeel_raza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamfahadashiq" height="30" width="40" /></a>
