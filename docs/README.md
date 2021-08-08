@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi, I'm Nabeel. 👋</h1>
-<h3 align="center"> A sophomore at UET Lahore</h3>
+<h3 align="center"> A Undergrad Student at UET Lahore</h3>
 <hr>
 
 🔭 I’m currently working on a Handwritten Expression Plotter<br>
 🌱 I’m currently learning Deep Learning<br>
-✨ I'm a sophomore majoring Computer Engineering at UET Lahore 💘<br>
+✨ I'm majoring in Computer Engineering at UET Lahore 💘<br>
 👌 Kaggle [profile](https://www.kaggle.com/nabeelraza) <br>
 💘LeetCode [profile](https://leetcode.com/nabeelraza/) <br>
 🖊 You can read my blog at: [hashnode](https://nabeel.hashnode.dev/) <br>
