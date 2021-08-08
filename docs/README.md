@@ -20,7 +20,7 @@
  <a href="http://www.twitter.com/nabeel_raza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="iamfahadashiq" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/nabeel-raza-ab8b1b19b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fahad-ashiq-303/" height="30" width="40" /></a>
  <a href="http://www.facebook.com/nabeelraza512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="fahadashiq30" height="30" width="40" /></a>
- <a href="https://www.instagram.com/raza_nabeel/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamfahadashiq" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/nabeel_raza_7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="iamfahadashiq" height="30" width="40" /></a>
 <hr>
 
 ![Nabeel's github stats](https://github-readme-stats.vercel.app/api?username=nabeelraza-7&show_icons=true&theme=radical&count_private=true)
