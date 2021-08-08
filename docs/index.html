@@ -12,9 +12,19 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css">
     <script src="particles.js"></script>
+    <style>
+        .project-link{
+            color: black;
+        }
+        .xyz{
+            display: flex;
+            width:50%;
+        }
+    </style>
 </head>
 
 <body>
+    <!-- header -->
     <header>
         <div class="pos-f-t">
             <div class="collapse" id="navbarToggleExternalContent">
@@ -46,16 +56,12 @@
     </header>
     <main class="main">
         <div class="container">
-            <div class="py-5 description" id="aboutme">
+            <div class="py-5 description">
                 <div class="col-md-7 my-auto">
                     <h2 class="featurette-heading text-white">Hi, I'm Nabeel. <span style="text-decoration: underline;"
-                            class="text-gray">A Web & Application software
-                            developer</span></h2><br>
-                    <p class="lead text-white">I am a sophomore studying Computer Engineering at University of
-                        Engineering & Technology, Lahore.
-                        I'm hoping to make lots of fun projects and aim to become a better developer with the passage of
-                        time.
-                    </p>
+                            class="text-gray">An enthusiastic developer in the making.
+                            </span></h2><br>
+                    
                 </div>
                 <div class="col-md-5">
                     <img class="featurette-image img-fluid mx-auto rounded-circle x" src="profile.jpg"
@@ -63,37 +69,58 @@
                 </div>
             </div>
         </div>
+        <div class="container xyz"  id="aboutme">
+            <p class="lead text-white text-justify">I am studying Computer Engineering at University of
+                Engineering & Technology, Lahore. I have solved around 60+ problems on leetcode. I am also a kaggle Contributor with experience in ML/DL. I also have experience in web development using django as tech stack.
+                I'm hoping to make lots of fun projects and aim to become a better developer with the passage of
+                time.
+            </p>
+        </div>
         <div id="projects" class="group container">
+            <div class="column">
+                <center><img class="img-card img-fluid rounded" src="graphex.png" alt="Calculator"></center>
+                <div class="body-card">
+                    <a class="project-link" href="https://graphex.herokuapp.com/" target="_blank"><h5 class="card-title ml-2">Graphex</h5></a>
+                    <p class="card-text ml-2">Made in javafx using recursive decent parser. A modern UI feel to it.</p>
+                </div>
+            </div>
             <div class="column">
                 <center><img class="img-card img-fluid rounded" src="calculator.png" alt="Calculator"></center>
                 <div class="body-card">
-                    <h5 class="card-title ml-2">Calculator</h5>
+                    <a class="project-link" href="https://github.com/nabeelraza-7/hospital-management-system" target="_blank"><h5 class="card-title ml-2">Hospital Management System</h5></a>
+                    <p class="card-text ml-2">Made in javafx using recursive decent parser. A modern UI feel to it.</p>
+                </div>
+            </div>
+            <div class="column">
+                <center><img class="img-card img-fluid rounded" src="calculator.png" alt="Calculator"></center>
+                <div class="body-card">
+                    <a class="project-link" href="https://github.com/nabeelraza-7/calculator" target="_blank"><h5 class="card-title ml-2">Calculator</h5></a>
                     <p class="card-text ml-2">Made in javafx using recursive decent parser. A modern UI feel to it.</p>
                 </div>
             </div>
             <div class="column">
                 <center><img class="img-card img-fluid rounded" src="notepad.png" alt="Notepad--"></center>
                 <div class="body-card">
-                    <h5 class="card-title ml-2">Notepad--</h5>
+                    <a class="project-link" href="https://github.com/nabeelraza-7/notepad--" target="_blank"><h5 class="card-title ml-2">Notepad--</h5></a>
                     <p class="card-text ml-2">A name inspired from notepad++. Tried to replicate a normal notepad using
                         javafx.
 
                     </p>
                 </div>
             </div>
-            <div class="column">
+            <!-- <div class="column">
                 <center><img class="img-card img-fluid rounded" src="blog.png" alt="Blog in flask & Django"></center>
                 <div class="body-card lower">
-                    <h5 class="card-title ml-2">Blog in flask & Django</h5>
+                    <a href="https://graphex.herokuapp.com/" target="_blank"><h5 class="card-title ml-2">Graphex</h5></a>
                     <p class="card-text ml-2">A small blog website replicated in flask and django
                     </p>
                 </div>
-            </div>
+            </div> -->
 
             <div class="column">
                 <center><img class="img-card img-fluid rounded" src="expensetracker.png" alt="Expense Tracker"></center>
                 <div class="body-card">
-                    <h5 class="card-title ml-2">Expense Tracker</h5>
+                    <a class="project-link" href="https://github.com/nabeelraza-7/expense-tracker" target="_blank"><h5 class="card-title ml-2">Expense Tracker</h5></a>
                     <p class="card-text ml-2">A utility application that allows you to keep track of your expenses and
                         observe them in different ways.
                     </p>
@@ -102,7 +129,7 @@
             <div class="column">
                 <center><img class="img-card img-fluid rounded" src="quizapp.png" alt="Quiz App"></center>
                 <div class="body-card">
-                    <h5 class="card-title ml-2">Quiz App</h5>
+                    <a class="project-link" href="https://github.com/nabeelraza-7/quiz-app" target="_blank"><h5 class="card-title ml-2">Quiz App</h5></a>
                     <p class="card-text ml-2">Made in android studio using java. A simple true or false game.</p>
                 </div>
             </div>
