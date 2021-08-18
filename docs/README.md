@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi, I'm Nabeel Raza. 👋</h1>
-<h3 align="center"> A Undergrad Student at UET Lahore</h3>
+<h3 align="center"> An Undergrad Student at UET Lahore</h3>
 <hr>
 
 🔭 I’m currently working on a Handwritten Expression Plotter<br>
