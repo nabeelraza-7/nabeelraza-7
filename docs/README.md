@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Nabeel. 👋</h1>
+<h1 align="center">Hi, I'm Nabeel Raza. 👋</h1>
 <h3 align="center"> A Undergrad Student at UET Lahore</h3>
 <hr>
 
