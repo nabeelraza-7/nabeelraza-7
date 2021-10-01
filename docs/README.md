@@ -15,16 +15,17 @@
 # Experiences #
   Data Science Intern at **The Sparks Foundation**
 <hr>
-
+<p align="center">
 📫 Contact me @: 
  <a href="http://www.twitter.com/nabeel_raza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Nabeel Raza" height="30" width="40" /></a>
  <a href="https://www.linkedin.com/in/nabeelraza-7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nabeel Raza" height="30" width="40" /></a>
  <a href="http://www.facebook.com/nabeelraza512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Nabeel Raza" height="30" width="40" /></a>
- <a href="https://www.instagram.com/nabeel_raza_7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Nabeel Raza" height="30" width="40" /></a>
+ <a href="https://www.instagram.com/nabeel_raza_7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Nabeel Raza" height="30" width="40" /></a></p>
 <hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nabeelraza-7&show_icons=true&theme=radical&count_private=true" alt="Nabeel's github stats"/>
 
-![Nabeel's github stats](https://github-readme-stats.vercel.app/api?username=nabeelraza-7&show_icons=true&theme=radical&count_private=true)
-<hr>
+</p><br>
 
 <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelraza-7&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
