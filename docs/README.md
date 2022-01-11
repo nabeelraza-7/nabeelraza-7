@@ -3,7 +3,7 @@
 <h3 align="center"> An Undergrad Student at UET Lahore</h3>
 <hr>
 
-🔭 I’m currently working on a Handwritten Expression Plotter<br>
+🔭 I’m currently working on a Mango Disease Classifier<br>
 🌱 I’m currently learning Deep Learning<br>
 ✨ I'm majoring in Computer Engineering at UET Lahore 💘<br>
 👌 Kaggle [profile](https://www.kaggle.com/nabeelraza) <br>
