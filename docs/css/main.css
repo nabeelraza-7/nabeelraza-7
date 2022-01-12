@@ -176,10 +176,10 @@ a:hover{
     border-radius: 0.25rem;
     width: 100%;
 }
-.small-text{
+/* .small-text{
     line-height: 1;
     margin-bottom: 3.2rem;
-}
+} */
 @media (max-width: 990px) {
     .block{
         flex-direction: column;
