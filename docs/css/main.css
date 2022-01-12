@@ -66,6 +66,21 @@ li a:hover{
     padding: 0.8rem;
     border-radius: 4px;
 }
+.burger{
+    color: black;
+    cursor: pointer;
+    position:absolute;
+    right: 8000px;
+}
+@media (max-width: 800px) {
+    .links{
+        display: none;
+    }
+    .burger{
+        right: 2rem;
+    }
+}
+
 .main-box{
     display:flex;
     justify-content: space-between;

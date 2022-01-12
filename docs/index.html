@@ -19,24 +19,34 @@
         <header>
             <div class="container">
                 <nav class="navbar">
-                <a href="/">
-                    <img src="images/icon.png" width="75px" height="75px"></a>
-                <div class="hamburger">
-                    <div class="line1"></div>
-                    <div class="line2"></div>
-                    <div class="line3"></div>
-                </div>
-                <div>
-                    <ul class="links">
-                        <li><a href="/">Home</a></li>
-                        <li><a href="#about-me">About Me</a></li>
-                        <li><a href="#services">Services</a></li>
-                        <li><a href="#projects">My Work</a></li>
-                        <li><a href="#contact-me">Contact Me</a></li>
-                    </ul>
-                </div>
+                    <a href="/">
+                        <img src="images/icon.png" width="75px" height="75px">
+                        <!-- <div>Icons made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div> -->
+                    </a>
+                    <div class="hamburger">
+                        <div class="line1"></div>
+                        <div class="line2"></div>
+                        <div class="line3"></div>
+                    </div>
+                    <div>
+                        <ul class="links">
+                            <li><a href="/">Home</a></li>
+                            <li><a href="#about-me">About Me</a></li>
+                            <li><a href="#services">Services</a></li>
+                            <li><a href="#projects">My Work</a></li>
+                            <li><a href="#contact-me">Contact Me</a></li>
+                        </ul>
+                    </div>
+                    <span class="burger" style="display: inline;" onclick="dispNav()"><i class="fas fa-bars"></i></span>
                 </nav>
             </div>
+            <ul id="second-links" class="center" style="display: none;">
+                <li class="mb-2"><a href="/">Home</a></li>
+                <li class="mb-2"><a href="#about-me">About Me</a></li>
+                <li class="mb-2"><a href="#services">Services</a></li>
+                <li class="mb-2"><a href="#projects">My Work</a></li>
+                <li class="mb-2"><a href="#contact-me">Contact Me</a></li>
+            </ul>
         </header>
         <hr style="margin-top: 0;">
         <div class="main-box">
@@ -45,10 +55,6 @@
                     <h4>Hi, I'm</h4>
                     <h1>Nabeel Raza</h1>
                     <p>A Student Developer</p>
-                <!-- <p>
-                    Hi, I'm <strong>Nabeel</strong>. I'm a junior year student at <br>University of Engineering & Technology,  <br>Lahore.
-                    I have a MAJOR interest in <br><strong>software develpoment</strong> and I love to learn<br>new technologies. ^_^
-                </p> -->
                 </div>
             </div>
             <img class="mr-4" src="images/profile 1 with no bg.png" alt="">
@@ -301,6 +307,14 @@
             slides[slidePosition-1].style.display = "block";
             setTimeout(SlideShow, 5000); // Change image every 2 seconds
         } 
+        function dispNav(){
+            let x = document.getElementById("second-links");
+            if (x.style.display === "none") {
+                x.style.display = "block";
+            } else {
+                x.style.display = "none";
+            }
+        }
     </script>
 </body>
 </html>
