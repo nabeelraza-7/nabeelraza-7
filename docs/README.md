@@ -4,7 +4,7 @@
 <hr>
 
 🔭 I’m currently working on a Hearbeat Monitoring and disease classification<br>
-🌱 I’m currently learning Deep Learning<br>
+🌱 I’m currently learning Digital Signal processing and Deep Learning<br>
 ✨ I'm majoring in Computer Engineering at UET Lahore 💘<br>
 👌 Kaggle [profile](https://www.kaggle.com/nabeelraza) <br>
 💘LeetCode [profile](https://leetcode.com/nabeelraza/) <br>
