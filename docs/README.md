@@ -8,11 +8,13 @@
 ✨ I'm majoring in Computer Engineering at UET Lahore 💘<br>
 👌 Kaggle [profile](https://www.kaggle.com/nabeelraza) <br>
 💘LeetCode [profile](https://leetcode.com/nabeelraza/) <br>
-🖊 You can read my blog at: [hashnode](https://nabeel.hashnode.dev/) <br>
+🖊 You can read my blog at: [hashnode](https://nabeel.hashnode.dev/), [Educative](https://www.educative.io/profile/view/5197197708886016) <br>
 
 <hr>
 
 # Experiences #
+  Answers Intern at **Educative. Inc.**
+  
   Data Science Intern at **The Sparks Foundation**
 <hr>
 
