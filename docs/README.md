@@ -1,32 +1,33 @@
 
-<h1 align="center">Hi, I'm Nabeel Raza. 👋</h1>
-<h3 align="center"> An Undergrad Student at UET Lahore</h3>
-<hr>
+# Hi, I'm Nabeel Raza. 👋
 
-🔭 I’m currently working on a Hearbeat Monitoring and disease classification<br>
-🌱 I’m currently learning Digital Signal processing and Deep Learning<br>
-✨ I'm majoring in Computer Engineering at UET Lahore 💘<br>
-👌 Kaggle [profile](https://www.kaggle.com/nabeelraza) <br>
-💘LeetCode [profile](https://leetcode.com/nabeelraza/) <br>
-🖊 You can read my blog at: [hashnode](https://nabeel.hashnode.dev/), [Educative](https://www.educative.io/profile/view/5197197708886016) <br>
+## 🚀 About Me
+- 🖋 I'm an Undergrad student @ UET, Lahore.
+- 👩‍💻 I am working on a _Heart Disease diagnostics System_ 
+- 🧠 I'm currently learning _NodeJS_
+- 💬 Ask me about _Deep Learning_
 
-<hr>
 
-# Experiences #
-  Answers Intern at **Educative. Inc.**
+## 👩‍💻 Experiences
   
-  Data Science Intern at **The Sparks Foundation**
-<hr>
+ ✨SDE Intern @ **Spatial Labs**
+  
+ ✌ Answers Intern @ **Educative. Inc.**
 
-📫 Contact me @: 
- <a href="http://www.twitter.com/nabeel_raza" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Nabeel Raza" height="30" width="40" /></a>
- <a href="https://www.linkedin.com/in/nabeelraza-7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Nabeel Raza" height="30" width="40" /></a>
- <a href="http://www.facebook.com/nabeelraza512" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Nabeel Raza" height="30" width="40" /></a>
- <a href="https://www.instagram.com/nabeel_raza_7/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Nabeel Raza" height="30" width="40" /></a>
-<hr>
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://nabeelraza-7.github.io/nabeelraza-7/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabeelraza-7/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nabeel_raza)
+[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nabeel_raza_7/)
+[![hashnode](https://img.shields.io/badge/hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://nabeel.hashnode.dev/)
+[![kaggle](https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nabeelraza)
+[![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nabeelraza/)
+[![educative](https://img.shields.io/badge/educative-341C53?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://www.educative.io/profile/view/5197197708886016)
+
+***
 
 ![Nabeel's github stats](https://github-readme-stats.vercel.app/api?username=nabeelraza-7&show_icons=true&theme=radical&count_private=true)
-<hr>
+***
 
 <p align="center">
     <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nabeelraza-7&theme=dark&hide_border=true&background=0D1117&stroke=0000&count_private=true&include_all_commits=true" />
