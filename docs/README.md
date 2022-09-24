@@ -1,7 +1,7 @@
 
 # Hi, I'm Nabeel Raza. 👋
 
-![gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![silly cat gif](https://3.bp.blogspot.com/-3t1Va-bnYts/VtEW_Y1tz5I/AAAAAAAALs0/jUEJgMzhMpA/s640/funny-gif-cat-falling-stylish.gif)
 
 ## 🚀 About Me
 - 🖋 I'm an Undergrad student @ UET, Lahore.
