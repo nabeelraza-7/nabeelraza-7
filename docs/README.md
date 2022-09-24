@@ -1,6 +1,8 @@
 
 # Hi, I'm Nabeel Raza. 👋
 
+![gif](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
 ## 🚀 About Me
 - 🖋 I'm an Undergrad student @ UET, Lahore.
 - 👩‍💻 I am working on a _Heart Disease diagnostics System_ 
