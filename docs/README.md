@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - 🖋 I'm an Undergrad student @ UET, Lahore.
 - 👩‍💻 I am working on a _Heart Disease diagnostics System_ 
-- 🧠 I'm currently learning _NodeJS_
+- 🧠 I'm currently learning about _Transformers_
 - 💬 Ask me about _Deep Learning_
 
 
