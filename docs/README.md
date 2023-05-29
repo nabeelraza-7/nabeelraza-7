@@ -4,9 +4,9 @@
 ![silly cat gif](https://3.bp.blogspot.com/-3t1Va-bnYts/VtEW_Y1tz5I/AAAAAAAALs0/jUEJgMzhMpA/s640/funny-gif-cat-falling-stylish.gif)
 
 ## 🚀 About Me
-- 🖋 I'm an Undergrad student @ UET, Lahore.
-- 👩‍💻 I am working on a _Heart Disease diagnostics System_ 
-- 🧠 I'm currently learning about _Transformers_
+- 🖋 I'm am a CE graduate from UET, Lahore.
+- 👩‍💻 I am working on a _Different technologies (object detection, stable diffusion)_ 
+- 🧠 I'm currently learning about _(Transformers, multimodal models, stable diffusion, etc.)_
 - 💬 Ask me about _Deep Learning_
 
 
