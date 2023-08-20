@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🖋 I'm am a CE graduate from UET, Lahore.
-- 👩‍💻 I am working on _Different technologies (object detection, stable diffusion)_ 
+- 👩‍💻 I am working on my data science skills.
 - 🧠 I'm currently learning about _(Transformers, multimodal models, stable diffusion, spatiotemporal data, etc.)_
 - 💬 Ask me about _Deep Learning_
 
