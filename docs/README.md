@@ -4,6 +4,7 @@
 ![silly cat gif](https://3.bp.blogspot.com/-3t1Va-bnYts/VtEW_Y1tz5I/AAAAAAAALs0/jUEJgMzhMpA/s640/funny-gif-cat-falling-stylish.gif)
 
 ## 🚀 About Me
+- 📖 I'm a grad student at NUST, SEECS.
 - 🖋 I'm am a CE graduate from UET, Lahore.
 - 👩‍💻 I am working on my data science skills.
 - 🧠 I'm currently learning about _(Transformers, multimodal models, stable diffusion, spatiotemporal data, etc.)_
@@ -27,9 +28,6 @@
 [![leetcode](https://img.shields.io/badge/leetcode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/nabeelraza/)
 [![educative](https://img.shields.io/badge/educative-341C53?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://www.educative.io/profile/view/5197197708886016)
 
-***
-
-![Nabeel's github stats](https://github-readme-stats.vercel.app/api?username=nabeelraza-7&show_icons=true&theme=radical&count_private=true)
 ***
 
 <p align="center">
