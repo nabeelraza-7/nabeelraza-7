@@ -4,15 +4,15 @@
 ![silly cat gif](https://3.bp.blogspot.com/-3t1Va-bnYts/VtEW_Y1tz5I/AAAAAAAALs0/jUEJgMzhMpA/s640/funny-gif-cat-falling-stylish.gif)
 
 ## 🚀 About Me
-- 📖 I'm a grad student at NUST, SEECS.
-- 🖋 I'm am a CE graduate from UET, Lahore.
+- 📖 I'm studying MSDS From NUST, SEECS, Islamabad.
+- 🖋 I studied BSCE from UET, Lahore.
 - 👩‍💻 I am working on my data science skills.
 - 🧠 I'm currently learning about _(Transformers, multimodal models, stable diffusion, spatiotemporal data, etc.)_
 - 💬 Ask me about _Deep Learning_
 
 
 ## 👩‍💻 Experiences
- 💻Jr. Developer @ **Spatial Labs**
+ 💻Jr. SDE @ **Spatial Labs**
   
  ✨SDE Intern @ **Spatial Labs**
   
