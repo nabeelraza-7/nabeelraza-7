@@ -12,7 +12,7 @@
 
 
 ## 👩‍💻 Experiences
- 💻Jr. SDE @ **Spatial Labs**
+ 💻Data Scientist @ **Spatial Labs**
   
  ✨SDE Intern @ **Spatial Labs**
   
