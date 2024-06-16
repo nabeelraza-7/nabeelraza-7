@@ -7,11 +7,14 @@
 - 📖 I'm doing MSDS from NUST, Islamabad.
 - 🖋 I studied BSCE from UET, Lahore.
 - 👩‍💻 I am working on my data science skills.
-- 🧠 I'm currently learning about _(Transformers, multimodal models, stable diffusion, spatiotemporal data, etc.)_
-- 💬 Ask me about _Deep Learning_
+- 🧠 I'm currently learning about _(OpenAI API, Transformers, multimodal models, stable diffusion, spatiotemporal data, etc.)_
+- 💬 Ask me about _Deep Learning, CV, NLP_
 
 
 ## 👩‍💻 Experiences
+ 
+ 💻AI Engineer @ **Antematter**
+ 
  💻Data Scientist @ **Spatial Labs**
   
  ✨SDE Intern @ **Spatial Labs**
