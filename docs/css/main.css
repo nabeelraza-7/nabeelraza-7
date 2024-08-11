@@ -284,7 +284,7 @@ footer {
 .card::before {
   content: "";
   position: absolute;
-  width: 50%;
+  width: 100%;
   border: solid rgb(18, 110, 146);
 }
 
@@ -293,17 +293,17 @@ footer {
   left: 0px;
   top: 0px;
   bottom: 0px;
-  border-width: 5px 0 5px 5px;
-  border-radius: 50px 0 0 50px;
+  border-width: 5px 0px 0px 5px;
+  border-radius: 0;
 }
 
 /* Setting the border of top, bottom, right */
 .card:nth-child(even)::before {
   right: 0;
   top: -0.3rem;
-  bottom: 0;
-  border-width: 5px 5px 5px 0;
-  border-radius: 0 50px 50px 0;
+  bottom: 0px;
+  border-width: 5px 5px 0px 0px;
+  border-radius: 0;
 }
 
 /* Removing the border if it is the first card */
@@ -370,4 +370,8 @@ footer {
 /* setting dot to the right if the card is odd */
 .card:nth-child(even) > .info > .title::before {
   right: -45px;
+}
+
+.outer{
+  width: 100%;
 }
