@@ -13,6 +13,8 @@
 
 ## 👩‍💻 Experiences
  
+ 💻Data Scientist @ **Securiti.ai**
+ 
  💻AI Engineer @ **Antematter**
  
  💻Data Scientist @ **Spatial Labs**
