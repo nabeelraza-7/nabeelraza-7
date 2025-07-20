@@ -4,8 +4,8 @@
 ![silly cat gif](https://3.bp.blogspot.com/-3t1Va-bnYts/VtEW_Y1tz5I/AAAAAAAALs0/jUEJgMzhMpA/s640/funny-gif-cat-falling-stylish.gif)
 
 ## 🚀 About Me
-- 📖 I'm doing MSDS from NUST, Islamabad.
-- 🖋 I studied BSCE from UET, Lahore.
+- 📖 I completed my Master's in Data Science from NUST, Islamabad.
+- 🖋 I studied a  Bachelor's in Computer Engineering from UET, Lahore.
 - 👩‍💻 I am working on my data science skills.
 - 🧠 I'm currently learning about _(OpenAI API, Transformers, multimodal models, stable diffusion, spatiotemporal data, etc.)_
 - 💬 Ask me about _Deep Learning, CV, NLP_
